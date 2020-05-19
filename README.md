@@ -8,7 +8,7 @@ Losing any Unit, including Whips or KOTG treants will result in a lose screen. A
 
 # Intsallation:
 
-1. Downlaod repository using the green button at the top right.
+1. Downloade the repository using the green button at the top right.
 2. Unzip the files. 
 3. Copy the w3m files to C:\Users\User\Documents\Warcraft III\Maps\Download\
 
