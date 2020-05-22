@@ -2,7 +2,9 @@
 
 
 # Info: 
-Maps for training Warcraft3 AOW creepcamps.
+Maps for training Warcraft3 AOW creepcamps. Made by Gindo70 with amazing help of Krawty.
+
+
 I recommend playing this in Singleplayer, this way you can restart the mission in the menu.
 Losing any Unit, including Whips or KOTG treants will result in a loose screen. At Amazonia you are supposed to kill the small camp as well.
 
